@@ -159,15 +159,10 @@ Install lstm_for_trading.git using one of the following methods:
 ```
 <h3>🔑 Adding API Keys</h3>
 <p>Add your broker's API key and secret key to the project by following these steps:</p>
-
-<a href="https://en.wikipedia.org/wiki/Dotenv" target="_blank">
-<img align="center" src="https://img.shields.io/badge/.env-4CAF50.svg?style=flat-square&logo=envoy&logoColor=white" />
-</a>
 </p>
 
 <pre>
 <code>
-# .env file
 BROKER_API_KEY=your_api_key_here
 BROKER_SECRET_KEY=your_secret_key_here
 </code>
