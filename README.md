@@ -6,8 +6,6 @@
 <p align="center">
 	<img src="https://img.shields.io/github/license/Cph4v/lstm_for_trading.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/Cph4v/lstm_for_trading.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Cph4v/lstm_for_trading.git?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Cph4v/lstm_for_trading.git?style=default&color=0080ff" alt="repo-language-count">
 </p>
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
