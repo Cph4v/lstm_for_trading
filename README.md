@@ -2,9 +2,7 @@
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
 </p>
 <p align="center"><h1 align="center">LSTM_FOR_TRADING.GIT</h1></p>
-<p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
-</p>
+
 <p align="center">
 	<img src="https://img.shields.io/github/license/Cph4v/lstm_for_trading.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/Cph4v/lstm_for_trading.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
@@ -38,13 +36,18 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ This project provides an end-to-end pipeline for real-time cryptocurrency price prediction using a combination of ARIMA and Transformer models. The pipeline fetches minute-level OHLCV (Open, High, Low, Close, Volume) data for Bitcoin from Bybit, preprocesses the data, applies the ARIMA model for time-series forecasting, and leverages a Transformer model for advanced predictions. The predictions are visualized in real-time using **Matplotlib** with **FuncAnimation** to plot and update forecasted values on a live graph.
+</code>
 
 ---
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Fetches real-time Bitcoin price data using the Bybit exchange API.
+      ❯ Applies the **ARIMA** model for short-term forecasting of Bitcoin prices.
+      ❯ Utilizes a **Transformer** model for advanced predictive capabilities.
+      ❯ Visualizes predictions and real-time data updates using animated plots.
+      ❯ Scalable for use with other cryptocurrencies by modifying the data source.</code>
 
 ---
 
