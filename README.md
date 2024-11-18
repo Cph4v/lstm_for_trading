@@ -3,10 +3,6 @@
 </p>
 <p align="center"><h1 align="center">LSTM_FOR_TRADING.GIT</h1></p>
 
-<p align="center">
-	<img src="https://img.shields.io/github/license/Cph4v/lstm_for_trading.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/Cph4v/lstm_for_trading.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-</p>
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
 <p align="center">
