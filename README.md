@@ -20,11 +20,9 @@
   - [☑️ Prerequisites](#-prerequisites)
   - [⚙️ Installation](#-installation)
   - [🤖 Usage](#🤖-usage)
-  - [🧪 Testing](#🧪-testing)
 - [📌 Project Roadmap](#-project-roadmap)
 - [🔰 Contributing](#-contributing)
 - [🎗 License](#-license)
-- [🙌 Acknowledgments](#-acknowledgments)
 
 ---
 
@@ -67,11 +65,11 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/Cph4v/lstm_for_trading.git/blob/master/main.py'>main.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ -</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Cph4v/lstm_for_trading.git/blob/master/requirements.txt'>requirements.txt</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ -</code></td>
 			</tr>
 			</table>
 		</blockquote>
@@ -82,7 +80,7 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/Cph4v/lstm_for_trading.git/blob/master/src/data_preprocessing.py'>data_preprocessing.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ -</code></td>
 			</tr>
 			</table>
 			<details>
@@ -91,15 +89,15 @@
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/Cph4v/lstm_for_trading.git/blob/master/src/models/layers.py'>layers.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ -</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/Cph4v/lstm_for_trading.git/blob/master/src/models/transformer.py'>transformer.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ -</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/Cph4v/lstm_for_trading.git/blob/master/src/models/128seq_1min_ohlcv.keras'>128seq_1min_ohlcv.keras</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ -</code></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -110,7 +108,7 @@
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/Cph4v/lstm_for_trading.git/blob/master/src/utils/postprocessing.py'>postprocessing.py</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><code>❯ -</code></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -224,12 +222,7 @@ Run lstm_for_trading.git using the following command:
 
 ## 🎗 License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+This project is protected under the MIT License. For more details, refer to the [LICENSE](https://github.com/Cph4v/lstm_for_trading/blob/main/LICENSE.txt) file.
 
 ---
 
-## 🙌 Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
----
